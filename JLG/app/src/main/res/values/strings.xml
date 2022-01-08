@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JLG</string>
+    <string name="heading">Choose the language to get the jokes in that language!</string>
+    <string name="joke_1">Did you hear about the mathematician who’s afraid of negative numbers? He’ll stop at nothing (0) to avoid them.</string>
+    <string name="joke_2">What’s the best thing about Switzerland? I don’t know, but the flag is a big plus.</string>
+    <string name="joke_3">Did you hear about the actor who fell through the floorboards? He was just going through a stage.</string>
+    <string name="joke_4">Did you hear about the claustrophobic astronaut? He just needed a little space.</string>
+</resources>

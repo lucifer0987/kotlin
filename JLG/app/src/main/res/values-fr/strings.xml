@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JLG</string>
+    <string name="heading">Choisissez la langue pour obtenir les blagues dans cette langue !</string>
+    <string name="joke_1">Avez-vous entendu parler du mathématicien qui a peur des nombres négatifs ? Il ne reculera devant rien (0) pour les éviter.</string>
+    <string name="joke_2">Quelle est la meilleure chose à propos de la Suisse? Je ne sais pas, mais le drapeau est un gros plus.</string>
+    <string name="joke_3">Avez-vous entendu parler de l\'acteur qui est tombé à travers le parquet? Il venait juste de traverser une étape.</string>
+    <string name="joke_4">Avez-vous entendu parler de l\'astronaute claustrophobe ? Il avait juste besoin d\'un peu d\'espace.</string>
+</resources>
